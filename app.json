@@ -1,0 +1,6 @@
+{
+  "name": "api-appservicos1010",
+  "stack": "heroku-18",
+  "website": "https://github.com/profjefferson/cors-anywhere",
+  "repository": "https://github.com/profjefferson/cors-anywhere",
+}
